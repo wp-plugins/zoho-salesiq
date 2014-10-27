@@ -88,7 +88,7 @@ update_option('ldcode',stripslashes($_POST['ldcodesnippet']));
             <div class="lvd_embdrht">
        
 
-<form method="post" action="<?php echo $PHP_SELF;?>">
+<form method="post" action="">
 
 <textarea id="ldcodesnippet" onclick="this.select()" name="ldcodesnippet" style="height:100px;width:400px"><?php  echo get_option('ldcode') ?></textarea>
 

@@ -7,7 +7,7 @@ Plugin Name: Zoho SalesIQ
 Plugin URI: http://wordpress.org/plugins/zoho-salesiq/
 Description: Convert Website Visitors into Customers
 Author: SalesIQ Team
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://zoho.com/salesiq
 */
 
@@ -42,6 +42,3 @@ function ld_embedchat()
 add_action("wp_footer","ld_embedchat", 5);
 
 ?>
-
-
-
