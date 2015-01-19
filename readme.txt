@@ -4,18 +4,23 @@ Contributors: Zoho SalesIQ team
 Donate link: http://zoho.com
 Tags: Zoho SalesIQ, Chat Widget, live chat support, livechat, LiveDesk, livesupport, supportchat, webchat, Zoho, Zoho chat, Zoho livechat, Zoho LiveDesk
 Requires at least: 2.8
-Tested up to: 4.0
+Tested up to: 4.1
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
+[youtube https://www.youtube.com/watch?v=Mmdw1fH7OXA]
+
 = What is SalesIQ and how does it increase your sales conversions? =
+
 
 SalesIQ is a live chat software to convert your store visitors into customers. A platform trusted by 1000+ online stores. Analyze how visitors are interacting with your store in real-time. Automatically initiate chat at strategic points of your store to share relevant content. Engage effectively and close more deals faster.
 
+
 = How SalesIQ can help you to close more deals faster? =
+
 
 Real-time visitor tracking:
 
