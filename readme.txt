@@ -16,7 +16,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 = What is SalesIQ and how does it increase your sales conversions? =
 
 
-SalesIQ is a live chat software to convert your store visitors into customers. A platform trusted by 1000+ online stores. Analyze how visitors are interacting with your store in real-time. Automatically initiate chat at strategic points of your store to share relevant content. Engage effectively and close more deals faster.
+SalesIQ is a live chat software with visitor tracking to convert your store visitors into customers. A platform trusted by 70000+ users. See and have live conversations with your website visitors. Increase sales conversions by accessing an insightful list of visitors, prioritized on their lead score. Engage effectively and close more deals faster.
 
 
 = How SalesIQ can help you to close more deals faster? =
@@ -25,6 +25,14 @@ SalesIQ is a live chat software to convert your store visitors into customers. A
 Real-time visitor tracking:
 
 Analyze your store visitors in real-time. Understand how they are navigating your store. Gain insights into their geo-location and referrer source to engage in contextual conversations.
+
+Visitor insights and lead scoring:
+
+Gain access to a highly insightful list of 'All' your store visitors. Prioritize them as hot, warm and cold based on their score. Drive sharper and more relevant engagement.
+
+Sell smarter. Close deals faster:
+
+Supercharge your sales conversions by automating your store -visitor engagement with intelligent triggers. Recognize & engage prospects landing on your website through email campaigns.
 
 Automated strategic chat initiation:
 
@@ -80,8 +88,10 @@ Please visit https://salesiq.zoho.com/mobile to configure your SalesIQ account i
 
 1. Tracking users
 1. Visitor information
-3. Tracking rules
-4. Account Configuration
+3. Visitor Scoring
+4. Proactive Chat
+5. Account Configuration
+6. SalesIQ Homepage
 
 == Changelog ==
 
