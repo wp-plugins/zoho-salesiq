@@ -6,6 +6,7 @@ update_option('ldcode',stripslashes($_POST['ldcodesnippet']));
 
 }
 
+
 ?>
 
 
@@ -122,6 +123,7 @@ update_option('ldcode',stripslashes($_POST['ldcodesnippet']));
 
 </div>
 </div>
+
 
 </body>
 </html>

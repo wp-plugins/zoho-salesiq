@@ -4,8 +4,8 @@ Contributors: Zoho SalesIQ team
 Donate link: http://zoho.com
 Tags: Zoho SalesIQ, Chat Widget, live chat support, livechat, LiveDesk, livesupport, supportchat, webchat, Zoho, Zoho chat, Zoho livechat, Zoho LiveDesk
 Requires at least: 2.8
-Tested up to: 4.1
-Stable tag: 1.0.1
+Tested up to: 4.2.3
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,12 +48,12 @@ Setup is as simple as copy & paste. Customization is just a few more clicks. Wha
 
 Take SalesIQ with you:
 
-Live chat with your store visitors from the comfort of your couch or while waiting at the airport. SalesIQ plays with with your iPhone, iPad or Andriod device via standard Jabber client).
+Live chat with your store visitors from the comfort of your couch or while waiting at the airport. SalesIQ plays with your iPhone, iPad or Andriod device via standard Jabber client).
 
 
 == Installation ==
 
-Simple, Upload the zip file under wp-content.
+Simple, unzip file under wp-content/plugins.
 
 Else You can install Zoho SalesIQ directly from the WordPress admin! Visit the Plugins - > Add New page and search for 'Zoho SalesIQ'. Click to install.
 
@@ -95,6 +95,10 @@ Please visit https://salesiq.zoho.com/mobile to configure your SalesIQ account i
 
 == Changelog ==
 
+= 1.0.2 =
+Automatically fill visitors Name and Email if visitor logged in 
+Validating the embeded script
+
 = 1.0.1 =
 Fixed "unexpected output during activation" issue
 Fixed issue while saving widget code for some users
@@ -104,6 +108,7 @@ Allow to embed the chat widget in wordpress blogs.
 
 == Upgrade Notice ==
 
-= 1.0.1 =
-Fixed "unexpected output during activation" issue
-Fixed issue while saving widget code for some users
+= 1.0.2 =
+Automatically fill visitors Name and Email if visitor logged in
+Validating the embeded script
+
