@@ -96,19 +96,19 @@ Please visit https://salesiq.zoho.com/mobile to configure your SalesIQ account i
 == Changelog ==
 
 = 1.0.2 =
-Automatically fill visitors Name and Email if visitor logged in 
-Validating the embeded script
+* Automatically fill visitors Name and Email if visitor logged in 
+* Validating the embeded script
 
 = 1.0.1 =
-Fixed "unexpected output during activation" issue
-Fixed issue while saving widget code for some users
+* Fixed "unexpected output during activation" issue
+* Fixed issue while saving widget code for some users
 
 = 1.0.0 =
-Allow to embed the chat widget in wordpress blogs.
+* Allow to embed the chat widget in wordpress blogs.
 
 == Upgrade Notice ==
 
 = 1.0.2 =
-Automatically fill visitors Name and Email if visitor logged in
-Validating the embeded script
+* Automatically fill visitors Name and Email if visitor logged in
+* Validating the embeded script
 
